@@ -1,0 +1,3 @@
+/Users/ahmed/CLionProjects/Prog3Game/cmake-build-debug/CMakeFiles/Prog3Game.dir
+/Users/ahmed/CLionProjects/Prog3Game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ahmed/CLionProjects/Prog3Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
